@@ -1,6 +1,12 @@
 # react-factory-elements
 Small library helping to write react components w/o jsx
 
+## Installation
+! Requires Proxy, for IE and Safari < 9 use polyfills
+```
+npm i -S react-factory-elements
+```
+
 ## Example
 
 Simple elements
