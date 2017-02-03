@@ -1,0 +1,22 @@
+{
+  "name": "react-factory-elements",
+  "version": "0.1.0",
+  "description": "Small library helping to write react components w/o jsx Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanot1m/react-factory-elements.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanot1m/react-factory-elements/issues"
+  },
+  "homepage": "https://github.com/nanot1m/react-factory-elements#readme",
+  "dependencies": {
+    "react": ">14.0.0"
+  }
+}
